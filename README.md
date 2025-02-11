@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LegalEase](https://github.com/ashahi10/LegalEase)
 
-- 👨‍💻 All of my projects are available at [http://ashahi1.me/Portfolio/](http://ashahi1.me/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://ashahi10.github.io/Portfolio/)
 
 - 💬 Ask me about **software development, machine learning**
 
